@@ -4,4 +4,6 @@
 - Containerization: Docker, Podman
 - CI/CD automation: GitHub Actions, Jenkins, GitLab CI/CD
 - Monitoring: Prometheus, Grafana
-- Linux and Bash scripts
+
+📞## **My contacts are:**
+Telegram: https://t.me/Papiimnoturs
